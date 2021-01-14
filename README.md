@@ -24,4 +24,4 @@ So the aim here is to create a repo at github and practice markdown language by 
 
 ## License
 
-This #### Project is License under GNU General Public License version 2.0. Check this *[link](https://git-scm.com/about#:~:text=Git%20is%20released%20under%20the,free%20for%20all%20its%20users.)* for more info.
+This **Project** is License under GNU General Public License version 2.0. Check this *[link](https://git-scm.com/about#:~:text=Git%20is%20released%20under%20the,free%20for%20all%20its%20users.)* for more info.
